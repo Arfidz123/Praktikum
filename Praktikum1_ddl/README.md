@@ -154,6 +154,14 @@ Secara umum, kalian harus:
 3. Menerapkan **semua constraint** yang diminta
 4. Memverifikasi struktur dengan `DESCRIBE` dan `SHOW CREATE TABLE`
 
+## Pertanyaan Diskusi
+
+1. Mengapa urutan pembuatan tabel itu penting ketika ada foreign key?
+2. Apa perbedaan antara `CHAR(10)` dan `VARCHAR(10)`?
+3. Kapan sebaiknya menggunakan `ENUM` vs tabel referensi terpisah?
+4. Apa yang terjadi jika kita mencoba menghapus tabel yang direferensi oleh foreign key tabel lain?
+5. Apa kelebihan dan kekurangan menggunakan `AUTO_INCREMENT` sebagai primary key?
+
 ## Referensi
 
 - [MySQL CREATE TABLE](https://dev.mysql.com/doc/refman/8.0/en/create-table.html)
