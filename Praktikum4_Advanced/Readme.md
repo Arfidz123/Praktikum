@@ -9,7 +9,7 @@ Data terus bertambah dan tim analytics mulai kesulitan menulis ulang query panja
 
 ## Tujuan Pembelajaran
 
-Setelah menyelesaikan praktikum ini, mahasiswa mampu
+Setelah menyelesaikan praktikum ini, mahasiswa mampu:
 
 1. Membuat **VIEW** untuk menyimpan query kompleks yang sering digunakan
 2. Mengakses, mem-filter, dan mengurutkan data dari **VIEW**
